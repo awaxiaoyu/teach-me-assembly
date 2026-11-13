@@ -1,0 +1,5 @@
+{
+  "mnemonics": {
+    "my_custom_opcode": "项目自定义语义：{operands}"
+  }
+}

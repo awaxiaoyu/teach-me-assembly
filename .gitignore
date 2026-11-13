@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+*.idb
+*.i64
+*.til
